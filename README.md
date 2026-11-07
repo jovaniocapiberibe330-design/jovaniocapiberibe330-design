@@ -1,18 +1,19 @@
-# Hi 👋, I'm Jovanio Capiberibe
 
-🚀 **Studant Software Engineer | Java & Backend**  
-Brazil
+# Olá 👋, sou Jovanio Capiberibe
 
-I am in the seventh semester of my engineering degree and am currently interning in back-end development.
+🚀 **Estudante de Engenharia | Java & Back-end**  
+🇧🇷 Brasil
 
-I don’t have any practical experience yet, but I am very eager to learn.
+Estou no sétimo semestre da minha graduação em Engenharia e atualmente direciono meus estudos para o desenvolvimento Back-end.
+
+Ainda não possuo experiência prática na área, mas tenho muita vontade de aprender e evoluir.
 
 ---
 
-## 🌐 Where to find me
+## 🌐 Onde me encontrar
 
 <p align="left">
-  <a href="https://github.com/jovaniocapiberibe330">
+  <a href="https://github.com/jovaniocapiberibe330-design">
     <img src="https://img.shields.io/badge/GitHub-JOVANIOCAPIBERIBE-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.instagram.com/jcapiberibee/?utm_source=ig_web_button_share_sheet">
@@ -22,25 +23,25 @@ I don’t have any practical experience yet, but I am very eager to learn.
 
 ---
 
-## 🎯 What I'm Focused On
+## 🎯 No que estou focado atualmente
 
-- 💻 Learning and improving my backend development skills
-- 📚 Strengthening my programming fundamentals
-- 🧠 Developing problem-solving and logical thinking
-- 🔌 Learning about APIs and database management
-- 🛠️ Practicing through personal projects
-- 🚀 Continuously learning and growing as a software developerrs
+- 💻 Aprendendo e aprimorando minhas habilidades em desenvolvimento Back-end
+- 📚 Fortalecendo meus conhecimentos fundamentais em programação
+- 🧠 Desenvolvendo minhas habilidades de resolução de problemas e raciocínio lógico
+- 🔌 Aprendendo sobre APIs e gerenciamento de bancos de dados
+- 🛠️ Praticando por meio de projetos pessoais
+- 🚀 Aprendendo continuamente e evoluindo como desenvolvedor de software
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tecnologias e Ferramentas
 
-### Backend
+### Back-end
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### DevOps & Tools
+### DevOps e Ferramentas
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -48,21 +49,21 @@ I don’t have any practical experience yet, but I am very eager to learn.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jovaniocapiberibe330-design&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jovaniocapiberibe330-design&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🚀 Philosophy
+## 🚀 Filosofia
 
-> "Progress comes from consistency, curiosity, and the willingness to never stop learning."
-
+> "O progresso vem da consistência, da curiosidade e da disposição de nunca parar de aprender."
 
 ---
 
-⭐ If you like my work, consider starring a repository  
-🤝 Always open to collaborations, partnerships, and cool ideas
+⭐ Se você gostou do meu trabalho, considere deixar uma estrela em algum repositório  
+🤝 Estou sempre aberto a colaborações, parcerias e novas ideias
+
