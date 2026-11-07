@@ -2,7 +2,7 @@
 # Olá 👋, sou Jovanio Capiberibe
 
 🚀 **Estudante de Engenharia | Java & Back-end**  
-🇧🇷 Brasil
+Brasil
 
 Estou no sétimo semestre da minha graduação em Engenharia e atualmente direciono meus estudos para o desenvolvimento Back-end.
 
